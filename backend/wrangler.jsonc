@@ -1,0 +1,12 @@
+{
+  "name": "vue-d1-crud",
+  "main": "src/index.js",
+  "compatibility_date": "2023-08-15",
+  "d1_databases": [
+	{
+	  "binding": "DB",
+	  "database_name": "vue-crud-db",
+	  "database_id": "c829f7b3-94d9-4fa0-85bd-b58cc5fe5d76"
+	}
+  ]
+}

@@ -1,0 +1,9 @@
+# Untuk backend (wrangler/D1)
+backend/.wrangler/
+backend/.dev.vars
+backend/dist/
+
+# Untuk frontend (Vue)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
